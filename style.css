@@ -90,19 +90,19 @@ a { text-decoration: none; }
 }
 .card-title1{
         margin-top: 75px;
-        margin-left: 110px;
+        margin-left: 70px;
 }
 .card-title2{
     margin-top: 15px;
-    margin-left: 110px;
+    margin-left: 70px;
 }
 .card-content1{
-    margin-left: 110px;
-    margin-right: 140px;
+    margin-left: 70px;
+    margin-right: 90px;
 }
 .cardlist{
-    margin-left: 110px;
-    margin-right: 200px;
+    margin-left: 70px;
+    margin-right: 90px;
     font-size: 20px;
 }
 .h3card{
@@ -112,9 +112,8 @@ a { text-decoration: none; }
     line-height:50px
 }
 
-
 .card-text{
-    text-align: center;
+    margin-left: 70px;
     font-size: 30px;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
