@@ -21,8 +21,8 @@ a { text-decoration: none; }
 .wordpresscontainer{
     display: grid;
     grid-template-columns: auto auto auto;
-    
 }
+
 .wordpress_sub{
     margin-left: auto; 
     margin-top: auto;
